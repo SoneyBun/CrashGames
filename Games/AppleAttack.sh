@@ -1,6 +1,4 @@
-#!/bin/zsh
-
-while true
-do
-  open -n -a Terminal
+#!/bin/bash
+while true; do
+  open -n -a "Terminal"
 done
