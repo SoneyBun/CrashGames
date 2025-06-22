@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 while true
 do
   open -n -a Terminal
