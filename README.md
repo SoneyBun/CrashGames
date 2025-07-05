@@ -1,6 +1,5 @@
 >[!CAUTION]
->Running these scripts repeatedly open certain applications until the device crashes. It is meant for prank purposes. Understood the risks associated when running these scripts. With the risks understood, make sure to use the appropriate script based on your operating system to minimize the total damage.
-
+>Acknowledge the risks associated when running these files.
 # CommandPromptCrash
 
 This project demonstrates how to crash the Windows Command Prompt using a specific character sequence. **Use responsibly.**
